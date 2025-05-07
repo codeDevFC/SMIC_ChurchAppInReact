@@ -15,7 +15,7 @@ function Header() {
           {/* Logo links to language-specific home */}
           <Link to={`/\${currentLang}`} className="flex items-center">
             <Logo className="h-10 w-auto" />
-            <span className="ml-2 font-bold text-lg">Stockholm Mission</span>
+            {/*<span className="ml-2 font-bold text-lg">Home</span>*/}
           </Link>
           
           <nav className="hidden md:flex space-x-6">
