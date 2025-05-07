@@ -25,21 +25,21 @@ function Home() {
     {
       id: 1,
       title: currentLang === 'en' ? 'Youth Retreat' : 'Ungdomsretreat',
-      date: '2023-06-10',
+      date: '2025-06-10',
       time: currentLang === 'en' ? '9:00 AM - 5:00 PM' : '09:00 - 17:00',
       language: ['en', 'sv']
     },
     {
       id: 2,
       title: currentLang === 'en' ? 'Bible Study' : 'Bibelstudium',
-      date: '2023-06-15',
+      date: '2025-06-15',
       time: currentLang === 'en' ? '7:00 PM' : '19:00',
       language: ['en']
     },
     {
       id: 3,
       title: currentLang === 'en' ? 'Prayer Meeting' : 'Bönmöte',
-      date: '2023-06-18',
+      date: '2025-06-18',
       time: currentLang === 'en' ? '6:30 PM' : '18:30',
       language: ['sv']
     }
