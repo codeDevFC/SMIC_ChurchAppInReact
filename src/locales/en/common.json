@@ -1,0 +1,35 @@
+{
+  "navigation": {
+    "home": "Home",
+    "sabbath": "Sabbath Services",
+    "h2h": "House to House Groups",
+    "media": "Media Library",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "menu": {
+    "home": "Home",
+    "sabbath": "Sabbath",
+    "h2h": "H2H",
+    "media": "Media",
+    "about": "About",
+    "contact": "Contact",
+    "engage": "Engage"
+  },
+  "footer": {
+    "navigation": "Navigation",
+    "contact": "Contact",
+    "followUs": "Follow Us",
+    "rights": "All Rights Reserved"
+  },
+  "hero": {
+    "welcome": "Welcome to Stockholm Mission International Church",
+    "join": "Join us this Sabbath",
+    "time": "Saturdays at 10:00 AM"
+  },
+  "buttons": {
+    "learnMore": "Learn More",
+    "watchLive": "Watch Live",
+    "findGroup": "Find a Group"
+  }
+}

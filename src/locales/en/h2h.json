@@ -1,0 +1,20 @@
+{
+  "title": "House to House Groups",
+  "description": "Join one of our 7 community groups across Stockholm",
+  "groups": {
+    "norr": {
+      "title": "H2H Norr",
+      "description": "Family ministry & prayer",
+      "meeting": "Wed 6:30 PM",
+      "leader": "John Smith",
+      "contact": "john@example.com"
+    },
+    "soder": {
+      "title": "H2H Söder",
+      "description": "Bible study & fellowship",
+      "meeting": "Tues 7:00 PM",
+      "leader": "Anna Johnson",
+      "contact": "anna@example.com"
+    }
+  }
+}

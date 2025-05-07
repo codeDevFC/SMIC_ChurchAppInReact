@@ -1,0 +1,35 @@
+{
+  "navigation": {
+    "home": "Hem",
+    "sabbath": "Sabbatsgudstjänster",
+    "h2h": "Hemgrupper",
+    "media": "Mediebibliotek",
+    "about": "Om Oss",
+    "contact": "Kontakt"
+  },
+  "menu": {
+    "home": "Hem",
+    "sabbath": "Sabbat",
+    "h2h": "H2H",
+    "media": "Media",
+    "about": "Om Oss",
+    "contact": "Kontakt",
+    "engage": "Engagera"
+  },
+  "footer": {
+    "navigation": "Navigation",
+    "contact": "Kontakt",
+    "followUs": "Följ Oss",
+    "rights": "Alla Rättigheter Förbehållna"
+  },
+  "hero": {
+    "welcome": "Välkommen till Stockholm Mission International Church",
+    "join": "Var med oss denna sabbat",
+    "time": "Lördagar kl 10:00"
+  },
+  "buttons": {
+    "learnMore": "Läs Mer",
+    "watchLive": "Se Live",
+    "findGroup": "Hitta en Grupp"
+  }
+}

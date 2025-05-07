@@ -1,0 +1,20 @@
+{
+  "title": "Hemgrupper",
+  "description": "Gå med i en av våra 7 gemenskapsgrupper runt om i Stockholm",
+  "groups": {
+    "norr": {
+      "title": "H2H Norr",
+      "description": "Familjeministry & bön",
+      "meeting": "Ons 18:30",
+      "leader": "John Smith",
+      "contact": "john@example.com"
+    },
+    "soder": {
+      "title": "H2H Söder",
+      "description": "Bibelstudier & gemenskap",
+      "meeting": "Tis 19:00",
+      "leader": "Anna Johnson",
+      "contact": "anna@example.com"
+    }
+  }
+}
